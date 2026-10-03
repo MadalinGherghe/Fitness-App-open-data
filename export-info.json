@@ -1,0 +1,18 @@
+{
+  "exportedAt": "2026-10-03T15:52:51.830Z",
+  "rows": 4443,
+  "columns": [
+    "barcode",
+    "name",
+    "name_en",
+    "brand",
+    "calories",
+    "proteins",
+    "carbs",
+    "fats",
+    "serving_size",
+    "serving_unit",
+    "alt_serving_qty",
+    "alt_package_qty"
+  ]
+}
