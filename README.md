@@ -27,4 +27,4 @@ The file is re-exported from the app's catalog from time to time; `export-info.j
 
 ## Issues
 
-For corrections to the product data itself, please contribute to Open Food Facts directly (<https://world.openfoodfacts.org>). For problems with this export, open an issue in this repository.
+For corrections to the product data itself, please contribute to Open Food Facts directly (<https://world.openfoodfacts.org>). For problems with this export, open an issue in this repository or write to <contact@mwolf-tech.ro>.
